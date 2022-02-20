@@ -1,0 +1,110 @@
+.header{
+    background-color: #FFFBF0;
+    padding-bottom: 100px;
+}
+.penguin-nav a{
+font-weight:600;
+}
+.penguin-nav{
+    padding-left: 350px;
+}
+.penguin-tab{
+    margin-left: 30px;
+}
+.intro h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: 550;
+}
+.intro{
+    padding-top: 50px;
+}
+.buy-button{
+    background-color:  #A4BC46;
+    border: 0;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 2.5% 5%;
+}
+.buy-button:hover{
+    background-color:#A4BC46 ;
+}
+ .penguin{
+    color:#FABE4C;
+}
+ .winter{
+    color: #363958;
+}
+.intro p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    font-size: 16px;
+    line-height: 26px;
+}
+.woman-jacket{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-weight: 500;
+}
+.jacket{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 24px;
+    font-weight: bolder;
+}
+.woman-description{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    font-size: 16px;
+    font-weight: 400;
+}
+.woman-jacket-price{
+    font-family: 'Roboto', sans-serif;
+    color: #FABE4C;
+    font-weight: 900;
+}
+.penguin-card{
+    border: 0;
+    border-radius: 15px;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+
+.jacket-image{
+    border-radius: 25px;
+    background-color: #F1F1F1;
+}
+.bottom-text{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 50px;
+}
+.bottom-header{
+    color:#363958;
+    font-size: 24px;
+    font-weight: bolder;
+}
+.bottom-footer{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #3E3E3E;
+}
+.contact{
+    border-radius: 20px;
+}
+.footer{
+    margin-top: 150px;
+    padding-bottom: 150px;
+}
+
+.man-jacket{
+    margin-top: 150px;
+}
+
+.woman-jacket-section{
+    margin-top: 60px;
+}
+
+
