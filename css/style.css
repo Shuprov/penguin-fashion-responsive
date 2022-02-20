@@ -107,4 +107,20 @@ font-weight:600;
     margin-top: 60px;
 }
 
+@media (max-width:576px)
+{
+    .cart-image{
+        margin-top: 100px;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media (max-width:576px)
+{
+    .jacket-column{
+        margin-top: 30px;
+    }
+}
+
 
